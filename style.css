@@ -8,10 +8,11 @@ header {
 }
 a {
   padding: 10px;
+  background-color: gray;
 }
 img {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  
 }
+
