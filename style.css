@@ -10,5 +10,6 @@ a {
   padding: 10px;
 }
 img {
-  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
 }
