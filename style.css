@@ -28,6 +28,6 @@ figcaption {
 #details {
   display: block;
 }
-#details > p {
+#details > div > p {
   float: left;
 }
