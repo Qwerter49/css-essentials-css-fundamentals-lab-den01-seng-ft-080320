@@ -10,6 +10,7 @@ a {
   padding: 10px;
 }
 img {
+  display: block;
   margin-right: auto;
   margin-left: auto;
   width: 50%;
